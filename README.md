@@ -1,27 +1,26 @@
-**Política de Privacidade - PazCall**
+**Privacy Policy - PazCall**
 
-**Última atualização:** 31 de agosto de 2026
+**Last updated:** August 31, 2026
 
-O **PazCall** foi desenvolvido com a privacidade como seu princípio fundamental. Nossa arquitetura é estritamente *offline-first*. Esta política explica como lidamos com as permissões do seu dispositivo.
+**PazCall** was developed with privacy as its fundamental principle. Our architecture is strictly *offline-first*. This policy explains how we handle your device's permissions.
 
-**1. Coleta e Compartilhamento de Dados**
-O PazCall **não coleta, não armazena em servidores e não compartilha** nenhum tipo de dado pessoal, número de telefone, histórico de chamadas ou informações da sua agenda de contatos. O aplicativo não possui conexão com a internet e não transmite nenhuma informação para fora do seu dispositivo.
+**1. Data Collection and Sharing**
+PazCall **does not collect, store on servers, or share** any personal data, phone numbers, call history, or information from your contacts list. The application has no internet connection and does not transmit any information outside of your device.
 
-**2. Uso de Permissões do Sistema**
-Para que o aplicativo funcione como um filtro de chamadas silencioso, solicitamos acesso a funcionalidades essenciais do sistema Android. Todo o processamento ocorre localmente no seu aparelho:
+**2. Use of System Permissions**
+For the application to function as a silent call filter, we request access to essential Android system features. All processing occurs locally on your device:
 
-* **Ler Contatos (`READ_CONTACTS`):** O aplicativo acessa sua agenda telefônica de forma estritamente local. Essa permissão é usada exclusivamente no momento em que você recebe uma chamada, para comparar o número de quem está ligando com os contatos salvos no seu aparelho. Se o número não estiver na agenda, a chamada é silenciada. Seus contatos nunca são copiados ou enviados para a internet.
-* **Serviço de Identificação de Chamadas (Call Screening / `BIND_SCREENING_SERVICE`):** Permite que o PazCall atue como o filtro padrão do sistema para processar chamadas recebidas antes de tocarem, garantindo que números desconhecidos sejam silenciados em segundo plano.
+* **Read Contacts (`READ_CONTACTS`):** The application accesses your phonebook strictly locally. This permission is used exclusively when you receive a call, to compare the caller's number with the contacts saved on your device. If the number is not in your phonebook, the call is silenced. Your contacts are never copied or sent to the internet.
+* **Call Screening Service (`BIND_SCREENING_SERVICE`):** Allows PazCall to act as the system's default call filter to process incoming calls before they ring, ensuring that unknown numbers are silenced in the background.
 
-**3. Serviços de Terceiros**
-O PazCall não utiliza SDKs de terceiros para rastreamento, análise de uso (analytics) ou publicidade. A experiência é totalmente livre de rastreadores.
+**3. Third-Party Services**
+PazCall does not use third-party SDKs for tracking, analytics, or advertising. The experience is completely tracker-free.
 
-**4. Privacidade Infantil**
-O aplicativo não é direcionado a menores de 18 anos e não coleta informações intencionalmente de crianças ou adolescentes.
+**4. Children's Privacy**
+The application is not directed at individuals under 18 years of age and does not intentionally collect information from children or teenagers.
 
-**5. Alterações nesta Política**
-Podemos atualizar nossa Política de Privacidade periodicamente. Como o aplicativo é offline, recomendamos revisar esta página para quaisquer mudanças.
+**5. Changes to This Policy**
+We may update our Privacy Policy periodically. Since the application is offline, we recommend reviewing this page for any changes.
 
-**6. Contato**
-Se você tiver dúvidas sobre esta Política de Privacidade ou sobre o funcionamento do aplicativo, entre em contato pelo e-mail: **dev.zels@gmail.com**
-
+**6. Contact Us**
+If you have any questions about this Privacy Policy or how the application works, please contact us via email: **dev.zels@gmail.com**
